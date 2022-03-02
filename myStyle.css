@@ -3,10 +3,11 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
+	font: 75%;
+	font-family: sans-serif;
 	line-height: 1.88889;
 	color: #1131e2; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	background-color: #B3AE94; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -41,7 +42,7 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
+	background-color: #eec90e; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;

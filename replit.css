@@ -78,7 +78,15 @@ ul {
 /*Using compound selectors, i.e., element1, element2, select each h3 and make each a different color.*/
 
 /*Using class and/or id by adding it in the index.html to each of the three h2 tags, give each one a different text-shadow and/or color.*/
-
+.head1 {
+    text-shadow: solid;
+}
+.head2 {
+    text-shadow: 3px blue;
+}
+.head3 {
+    text-shadow: 2px 2px
+}
 /*Add any other properties to the CSS rules you've created.
 Create new rules to add even more style.*/
 html {

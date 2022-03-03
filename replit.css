@@ -40,7 +40,7 @@ a:hover {
 }
 /*Add a border to the section elements.*/
 section {
-    border: #0000ff;
+    border-style: solid;
 }
 
 /*

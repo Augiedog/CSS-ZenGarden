@@ -38,12 +38,12 @@ a:visited {
 a:hover {
     color: red;
 }
-/*Add a border to the section elements.*/
+/*Add a border to the section elements.
+Add a box-shadow to at least one element.*/
 section {
     border-style: solid;
+    box-shadow: #337961;
 }
-/*Add a box-shadow to at least one element. */
-
 /*Target the h1 and change the font-size using em.
 Add a text-shadow to the h1.
 Choose any text element and text-align center it.*/
@@ -77,11 +77,15 @@ ul {
 }
 /*Using compound selectors, i.e., element1, element2, select each h3 and make each a different color.*/
 
+/*Using class and/or id by adding it in the index.html to each of the three h2 tags, give each one a different text-shadow and/or color.*/
 
-/*Using class and/or id by adding it in the index.html to each of the three h2 tags, give each one a different text-shadow and/or color.
-Add any other properties to the CSS rules you've created.
-Create new rules to add even more style.
-*Feel free to add classes and ids to the HTML to select the elements you want.
+/*Add any other properties to the CSS rules you've created.
+Create new rules to add even more style.*/
+html {
+    margin: 0%;
+    padding: 0%;
+}
+/*Feel free to add classes and ids to the HTML to select the elements you want.
 Share your replit with your instructor and classmates.
 
 Bonus
